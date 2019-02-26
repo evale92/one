@@ -1,0 +1,50 @@
+32-401
+English 1101 
+English
+Freshman
+Reading
+33-401
+English 1102
+English
+Sophomore
+Writing 
+34-401
+English 2101
+English
+Junior
+Reading and Writing
+35-401
+English 2102
+English
+Senior
+Both
+32-601
+Math 1101
+Math
+Non-STEM
+In Person
+32-602
+Math 1102
+Math
+STEM
+Online
+33-601
+Math 2000
+Math
+Non-STEM
+Hybrid               
+32-801
+History 1001
+History
+Area E Not Eligible
+In Person
+32-802
+History 2001
+History
+Area E Eligible
+Recorded
+32-803
+History 2003
+History
+Area E Eligible
+Online
